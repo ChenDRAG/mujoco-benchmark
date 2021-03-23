@@ -3,7 +3,7 @@ This repo only servers as a link to Tianshou's benchmark of Mujoco environments.
 Keywords: deep reinforcement learning, pytorch, mujoco, benchmark, performances, Tianshou, baseline
 
 <div align="center">
-  <a href="http://tianshou.readthedocs.io"><img width="300px" height="auto" src="tianshou/docs/_static/images/tianshou-logo.png"></a>
+  <a href="http://tianshou.readthedocs.io"><img width="300px" height="auto" src="tianshou-logo.png"></a>
 </div>
 
 ---
