@@ -1,12 +1,11 @@
-This repo only servers as a link to Tianshou's benchmark of Mujoco environments. Latest benchmark is maintained under thu-ml/tianshou. See full benchmark [here](https://github.com/thu-ml/tianshou/tree/master/examples/mujoco) and introduction of Tianshou [here](https://github.com/thu-ml/tianshou).
-
-Keywords: deep reinforcement learning, pytorch, mujoco, benchmark, performances, Tianshou, baseline
-
 <div align="center">
   <a href="http://tianshou.readthedocs.io"><img width="300px" height="auto" src="tianshou-logo.png"></a>
 </div>
-
 ---
+
+This repo only servers as a link to Tianshou's benchmark of Mujoco environments. Latest benchmark is maintained under [thu-ml/tianshou](https://github.com/thu-ml/tianshou), See full benchmark [here](https://github.com/thu-ml/tianshou/tree/master/examples/mujoco).
+
+**Keywords**: deep reinforcement learning, pytorch, mujoco, benchmark, performances, Tianshou, baseline
 
 # Tianshou's Mujoco Benchmark
 
